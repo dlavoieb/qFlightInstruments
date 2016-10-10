@@ -1,3 +1,4 @@
+#include <QApplication>
 #include <QtCore>
 #include <QtGui>
 #include <QWidget>

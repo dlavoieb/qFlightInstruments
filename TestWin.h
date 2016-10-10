@@ -6,6 +6,8 @@
 #include <QTextEdit>
 
 #include "qFlightInstruments.h"
+#include "QAttitude.h"
+#include "QCompass.h"
 
 
 class TestWin : public QWidget
